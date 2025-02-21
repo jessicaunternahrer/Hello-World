@@ -20,5 +20,9 @@ Practice using GitHub by creating a sample repository. Make sure you add a descr
 
 Explain her how you would run the program and what files need to be available
 
+## Additional Documentation
+
+No additional information to report.
+
 # Hello-World
 First Repository

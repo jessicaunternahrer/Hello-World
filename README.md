@@ -23,7 +23,7 @@ Used [GitHub Instructions PDF](path/to/https://github.com/jessicaunternahrer/Hel
 Collected from **ICON** Assignments tab
 ## How to Run Program
 
-Explain her how you would run the program and what files need to be available
+Explain here how you would run the program and what files need to be available
 
 ## Additional Documentation
 
